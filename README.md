@@ -1,8 +1,6 @@
-# Project Title
+# [udash](https://github.com/Apex1000/udash)
 
-## [udash](https://github.com/Apex1000/udash)
-
-udash based on [Smashing](https://github.com/Smashing/smashing), the spiritual successor to [Dashing](https://github.com/Shopify/dashing), is a Sinatra based framework that lets you build excellent dashboards. It looks especially great on TVs.
+udash dashboard based on [Smashing](https://github.com/Smashing/smashing), the spiritual successor to [Dashing](https://github.com/Shopify/dashing), is a Sinatra based framework that lets you build excellent dashboards. It looks especially great on TVs.
 
 ## Getting Started
 
